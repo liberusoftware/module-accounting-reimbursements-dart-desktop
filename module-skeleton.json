@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-reimbursements-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-reimbursements",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_reimbursements_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/reimbursements.md",
+  "presentationPlan": "projects/accounting/features/reimbursements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
